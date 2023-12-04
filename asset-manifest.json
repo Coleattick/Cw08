@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Coleattick/Cw08.git/static/css/main.f855e6bc.css",
+    "main.js": "/Coleattick/Cw08.git/static/js/main.5af5cfe7.js",
+    "static/js/787.d4aba7ab.chunk.js": "/Coleattick/Cw08.git/static/js/787.d4aba7ab.chunk.js",
+    "index.html": "/Coleattick/Cw08.git/index.html",
+    "main.f855e6bc.css.map": "/Coleattick/Cw08.git/static/css/main.f855e6bc.css.map",
+    "main.5af5cfe7.js.map": "/Coleattick/Cw08.git/static/js/main.5af5cfe7.js.map",
+    "787.d4aba7ab.chunk.js.map": "/Coleattick/Cw08.git/static/js/787.d4aba7ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.5af5cfe7.js"
+  ]
+}
